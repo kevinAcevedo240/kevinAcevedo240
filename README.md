@@ -11,6 +11,8 @@
 
 - 📫 Reach out to me at **keju.acevedosa24@gmail.com**
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kevinAcevedo240&color=green" alt="Profile views" /> </p>
+
 </br>
 <hr>
 <img height='200em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=kevinAcevedo240&layout=compact)](https://github.com/anuraghazra/github-readme-stats'/>
