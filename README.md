@@ -9,8 +9,6 @@
 
 - 💬 Ask me about anything, I am happy to help, **only if the ball is in my court!**
 
-- 📫 Reach out to me at **keju.acevedosa24@gmail.com**
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevinAcevedo240&color=green" alt="Profile views" /> </p>
 
 </br>
