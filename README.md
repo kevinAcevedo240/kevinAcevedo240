@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif?cid=790b7611ad9cea8bedcb0e05bbac7bd939a590493d3981c1&rid=giphy.gif&ct=g">
 - 🎓 I’m currently studying Mechatronics engineering at Technological University of Pereira
 
-- 🌱 I’m currently learning Augmented Reality, Virtual Reality, Angular
+- 🌱 I’m currently learning Angular, Tailwind and software architecture
 
 - 💡 I like to explore new technologies and develop software solutions and quick hacks
 
