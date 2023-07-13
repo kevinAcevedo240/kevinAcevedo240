@@ -9,7 +9,7 @@
 
 - 💬 Ask me about anything, I am happy to help, **only if the ball is in my court!**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kevinAcevedo240&color=green" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kevinAcevedo240&color=green" alt="Profile views" style="border-radius: 15px" /> </p>
 
 </br>
 <hr>
