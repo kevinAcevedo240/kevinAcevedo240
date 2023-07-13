@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Kevin Acevedo</h1>
 <h3 align="center">👨🏻‍💻 A passionate colombian .NET backend developer and new technologies</h3>
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif?cid=790b7611ad9cea8bedcb0e05bbac7bd939a590493d3981c1&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="400"  style="border-radius: 15px" src="https://media4.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif?cid=790b7611ad9cea8bedcb0e05bbac7bd939a590493d3981c1&rid=giphy.gif&ct=g">
 - 🎓 I’m currently studying Mechatronics engineering at Technological University of Pereira
 
 - 🌱 I’m currently learning Angular, Tailwind and software architecture
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about anything, I am happy to help, **only if the ball is in my court!**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kevinAcevedo240&color=green" alt="Profile views" style="border-radius: 15px" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kevinAcevedo240&color=green" alt="Profile views" /> </p>
 
 </br>
 <hr>
