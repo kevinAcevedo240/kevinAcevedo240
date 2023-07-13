@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Kevin Acevedo</h1>
 <h3 align="center">👨🏻‍💻 A passionate colombian .NET backend developer and new technologies</h3>
-<img align="right" alt="Coding" width="400"  style="border-radius: 15px" src="https://media4.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif?cid=790b7611ad9cea8bedcb0e05bbac7bd939a590493d3981c1&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="400"  Style="border-radius: 15px" src="https://media4.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif?cid=790b7611ad9cea8bedcb0e05bbac7bd939a590493d3981c1&rid=giphy.gif&ct=g">
 - 🎓 I’m currently studying Mechatronics engineering at Technological University of Pereira
 
 - 🌱 I’m currently learning Angular, Tailwind and software architecture
