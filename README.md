@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400"  Style="border-radius: 15px" src="https://media4.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif?cid=790b7611ad9cea8bedcb0e05bbac7bd939a590493d3981c1&rid=giphy.gif&ct=g">
 - 🎓 I’m currently studying Mechatronics engineering at Technological University of Pereira
 
-- 🌱 I’m currently learning Angular, Tailwind and software architecture
+- 🌱 I’m currently learning React and Next.js
 
 - 💡 I like to explore new technologies and develop software solutions and quick hacks
 
@@ -25,7 +25,7 @@
 
 <h3 align="left">Languages, Frameworks and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=azure,bootstrap,visualstudio,vscode,net,cs,git,angular,html,css,postman,photoshop,figma,typescript)](https://skillicons.dev)<br/>
+[![My Skills](https://skillicons.dev/icons?i=azure,bootstrap,visualstudio,vscode,net,cs,git,angular,html,css,postman,photoshop,figma,typescript,react)](https://skillicons.dev)<br/>
 
 
 
