@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/kevin-julian-acevedo-salazar-8b03051a4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kevin-julian-acevedo-salazar-8b03051a4/" height="55" width="100" /></a>
+<a href="https://www.linkedin.com/in/kevin-julian-acevedo-salazar-8b03051a4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" style="max-width: 100%;"></a>
   <a href="https://www.instagram.com/soy.acevedo_/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="https://www.instagram.com/soy.acevedo_/" height="40" width="40" /></a>
 <a href="mailto:keju.acevedosa24@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg" alt="mailto:keju.acevedosa24@gmail.com" height="55" width="100" /></a>
 </p>
