@@ -25,7 +25,7 @@
 
 <h3 align="left">Languages, Frameworks and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=azure,bootstrap,visualstudio,vscode,net,cs,git,angular,html,css,postman,photoshop,figma,typescript,react)](https://skillicons.dev)<br/>
+[![My Skills](https://skillicons.dev/icons?i=azure,bootstrap,visualstudio,vscode,net,cs,git,angular,html,css,postman,photoshop,figma,typescript,react,sanity)](https://skillicons.dev)<br/>
 
 
 
