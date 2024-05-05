@@ -31,10 +31,8 @@
 
 <h3 align="left">Languages, Frameworks and Tools:</h3>
 
-<div align="center">
    [![My Skills](https://skillicons.dev/icons?i=azure,bootstrap,visualstudio,vscode,net,cs,git,angular,html,css,tailwind,postman,photoshop,figma,typescript,react,nextjs,sanity)]    
    (https://skillicons.dev)
-<div/>
 
   <br/>
 
