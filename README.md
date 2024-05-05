@@ -29,20 +29,26 @@
 <a href="mailto:keju.acevedosa24@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg" alt="mailto:keju.acevedosa24@gmail.com" height="55" width="100" /></a>
 </p>
 
-<h3 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h3>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=azure,bootstrap,visualstudio,vscode,net,cs,git,angular" />
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,postman,photoshop,figma,typescript,react,nextjs,sanity" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,postman,photoshop,figma,typescript,react,nextjs,github" /><br>
 </div>
+
+ ![My Skills](https://skillicons.dev/icons?i=azure,bootstrap,visualstudio,vscode,net,cs,git,angular,html,css,tailwind,postman,photoshop,figma,typescript,react,nextjs,sanity)    
 
   <br/>
 
 <hr>
 
-<p align="center">
-  <img src="https://github.com/kevinAcevedo240/raw/output/github-snake-dark.svg" alt="snake"></center>
-</p>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kevinAcevedo240/kevinAcevedo240/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/>
+</div>
 
 <!-- Footer -->
 <img width=100% title="Kevin Acevedo" alt="Kevin Acevedo" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&fontAlignY=35&fontSize=50&section=footer"/>
