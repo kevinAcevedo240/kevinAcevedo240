@@ -35,8 +35,7 @@
     <img src="https://skillicons.dev/icons?i=azure,bootstrap,visualstudio,vscode,net,cs,git,angular" />
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,postman,photoshop,figma,typescript,react,nextjs,github" /><br>
 </div>
-
- ![My Skills](https://skillicons.dev/icons?i=azure,bootstrap,visualstudio,vscode,net,cs,git,angular,html,css,tailwind,postman,photoshop,figma,typescript,react,nextjs,sanity)    
+  
 
   <br/>
 
