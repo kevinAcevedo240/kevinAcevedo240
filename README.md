@@ -32,15 +32,15 @@
 <h3 align="left">Languages, Frameworks and Tools:</h3>
 
    [![My Skills](https://skillicons.dev/icons?i=azure,bootstrap,visualstudio,vscode,net,cs,git,angular,html,css,tailwind,postman,photoshop,figma,typescript,react,nextjs,sanity)]    
-   (https://skillicons.dev)
+ 
 
   <br/>
 
 <hr>
 
 <p align="center">
-  <img src="https://github.com/kevinAcevedo240/kevinAcevedo240/raw/output/github-snake-dark.svg" alt="snake"></center>
+  <img src="https://github.com/kevinAcevedo240/raw/output/github-snake-dark.svg" alt="snake"></center>
 </p>
 
 <!-- Footer -->
-<img width=100% title="Kevin Acevedo" alt="Kevin Acevedo" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&fontAlignY=35&fontSize=50&section=footer"/>
+<img width=100% title="Kevin Acevedo" alt="Kevin Acevedo" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&fontAlignY=35&fontSize=50&section=footer"/>
