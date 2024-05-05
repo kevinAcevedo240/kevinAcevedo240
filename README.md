@@ -17,8 +17,8 @@
 
 ## My GitHub Stats
 <div>
-<img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kevinAcevedo240&theme=radical" alt="tarikmanoar" />
-<img align="center" width="49%"  src="https://github-readme-stats.vercel.app/api?username=kevinAcevedo240&show_icons=true&locale=en&theme=radical" alt="tarikmanoar" />
+<img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kevinAcevedo240&theme=highcontrast" alt="tarikmanoar" />
+<img align="center" width="49%"  src="https://github-readme-stats.vercel.app/api?username=kevinAcevedo240&show_icons=true&locale=en&theme=highcontrast" alt="tarikmanoar" />
 </div>
 <br/>
 
