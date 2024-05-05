@@ -1,7 +1,7 @@
 
 <img width=100% title="Kevin Acevedo" alt="Kevin Acevedo" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Hi%20there%20👋,%20I'm%20Kevin%20Acevedo&fontAlignY=43&fontSize=50"/>
 
-<h3 align="center">👨🏻‍💻A passionate FullStack Developer from Colombia</h3>
+<h2 align="center">👨🏻‍💻A passionate FullStack Developer from Colombia</h2>
 <img align="right" alt="Coding" width="400"  Style="border-radius: 15px" src="https://media4.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif?cid=790b7611ad9cea8bedcb0e05bbac7bd939a590493d3981c1&rid=giphy.gif&ct=g">
 - 🎓 I’m currently studying Mechatronics engineering at Technological University of Pereira
 
@@ -31,7 +31,7 @@
 
 <h3 align="left">Languages, Frameworks and Tools:</h3>
 
-   [![My Skills](https://skillicons.dev/icons?i=azure,bootstrap,visualstudio,vscode,net,cs,git,angular,html,css,tailwind,postman,photoshop,figma,typescript,react,nextjs,sanity)]    
+   ![My Skills](https://skillicons.dev/icons?i=azure,bootstrap,visualstudio,vscode,net,cs,git,angular,html,css,tailwind,postman,photoshop,figma,typescript,react,nextjs,sanity)    
  
 
   <br/>
