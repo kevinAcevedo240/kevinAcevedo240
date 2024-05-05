@@ -15,15 +15,15 @@
 
 </br>
 
-## My GitHub Stats
+<h2 align="center">🌟 My GitHub Stats 🌟</h2>
 <div>
 <img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kevinAcevedo240&theme=highcontrast" alt="kevinAcevedo240" />
 <img align="center" width="49%"  src="https://github-readme-stats.vercel.app/api?username=kevinAcevedo240&show_icons=true&locale=en&theme=highcontrast" alt="kevinAcevedo240" />
 </div>
 <br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h2 align="center">Connect with me</h2>
+<p align="center">
 <a href="https://www.linkedin.com/in/kevin-julian-acevedo-salazar-8b03051a4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" style="max-width: 100%;"></a>
   <a href="https://www.instagram.com/soy.acevedo_/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="https://www.instagram.com/soy.acevedo_/" height="40" width="40" /></a>
 <a href="mailto:keju.acevedosa24@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg" alt="mailto:keju.acevedosa24@gmail.com" height="55" width="100" /></a>
