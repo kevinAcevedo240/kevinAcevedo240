@@ -17,8 +17,8 @@
 
 ## My GitHub Stats
 <div>
-<img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kevinAcevedo240&theme=highcontrast" alt="tarikmanoar" />
-<img align="center" width="49%"  src="https://github-readme-stats.vercel.app/api?username=kevinAcevedo240&show_icons=true&locale=en&theme=highcontrast" alt="tarikmanoar" />
+<img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kevinAcevedo240&theme=highcontrast" alt="kevinAcevedo240" />
+<img align="center" width="49%"  src="https://github-readme-stats.vercel.app/api?username=kevinAcevedo240&show_icons=true&locale=en&theme=highcontrast" alt="kevinAcevedo240" />
 </div>
 <br/>
 
@@ -31,7 +31,12 @@
 
 <h3 align="left">Languages, Frameworks and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=azure,bootstrap,visualstudio,vscode,net,cs,git,angular,html,css,tailwind,postman,photoshop,figma,typescript,react,nextjs,sanity)](https://skillicons.dev)<br/>
+<div align="center">
+   [![My Skills](https://skillicons.dev/icons?i=azure,bootstrap,visualstudio,vscode,net,cs,git,angular,html,css,tailwind,postman,photoshop,figma,typescript,react,nextjs,sanity)]    
+   (https://skillicons.dev)
+<div/>
+
+  <br/>
 
 
 
