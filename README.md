@@ -1,5 +1,5 @@
 
-<img width=100% title="Nemonet TYP" alt="Nemonet TYP" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Hi%20there%20👋,%20I'm%20Kevin%20Acevedo&fontAlignY=43&fontSize=50"/>
+<img width=100% title="Kevin Acevedo" alt="Kevin Acevedo" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Hi%20there%20👋,%20I'm%20Kevin%20Acevedo&fontAlignY=43&fontSize=50"/>
 
 <h3 align="center">👨🏻‍💻A passionate FullStack Developer from Colombia</h3>
 <img align="right" alt="Coding" width="400"  Style="border-radius: 15px" src="https://media4.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif?cid=790b7611ad9cea8bedcb0e05bbac7bd939a590493d3981c1&rid=giphy.gif&ct=g">
@@ -14,9 +14,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevinAcevedo240&color=green" alt="Profile views" /> </p>
 
 </br>
-<hr>
 
-<img height='200em' src='https://github-readme-stats.vercel.app/api?username=kevinAcevedo240&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats'/>
+## My GitHub Stats
+<div>
+<img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kevinAcevedo240&theme=radical" alt="tarikmanoar" />
+<img align="center" width="49%"  src="https://github-readme-stats.vercel.app/api?username=kevinAcevedo240&show_icons=true&locale=en&theme=radical" alt="tarikmanoar" />
+</div>
+<br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
