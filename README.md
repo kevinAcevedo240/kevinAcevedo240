@@ -29,10 +29,12 @@
 <a href="mailto:keju.acevedosa24@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg" alt="mailto:keju.acevedosa24@gmail.com" height="55" width="100" /></a>
 </p>
 
-<h3 align="left">Languages, Frameworks and Tools:</h3>
+<h3 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h3>
 
-   ![My Skills](https://skillicons.dev/icons?i=azure,bootstrap,visualstudio,vscode,net,cs,git,angular,html,css,tailwind,postman,photoshop,figma,typescript,react,nextjs,sanity)    
- 
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=azure,bootstrap,visualstudio,vscode,net,cs,git,angular" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,postman,photoshop,figma,typescript,react,nextjs,sanity" /><br>
+</div>
 
   <br/>
 
