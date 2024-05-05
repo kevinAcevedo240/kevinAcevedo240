@@ -2,7 +2,7 @@
 <img width=100% title="Kevin Acevedo" alt="Kevin Acevedo" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Hi%20there%20👋,%20I'm%20Kevin%20Acevedo&fontAlignY=43&fontSize=50"/>
 
 <h2 align="center">👨🏻‍💻A passionate FullStack Developer from Colombia</h2>
-<img align="right" alt="Coding" width="400"  Style="border-radius: 15px" src="https://media4.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif?cid=790b7611ad9cea8bedcb0e05bbac7bd939a590493d3981c1&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="400"  Style="border-radius: 15px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGMzajl3ZTg4NDF1dHltcGI1MnNyanRoc3lubzQ5ZThjNWY3enJheiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7bdpLxQhsSQdyog/giphy.gif">
 - 🎓 I’m currently studying Mechatronics engineering at Technological University of Pereira
 
 - 🌱 I’m currently learning React and Next.js
