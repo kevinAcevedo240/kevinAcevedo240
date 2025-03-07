@@ -2,10 +2,11 @@
 <img width=100% title="Kevin Acevedo" alt="Kevin Acevedo" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Hi%20there%20👋,%20I'm%20Kevin%20Acevedo&fontAlignY=43&fontSize=50"/>
 
 <h2 align="center">👨🏻‍💻A passionate FullStack Developer from Colombia</h2>
-<img align="right" alt="Coding" width="400"  Style="border-radius: 15px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGMzajl3ZTg4NDF1dHltcGI1MnNyanRoc3lubzQ5ZThjNWY3enJheiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7bdpLxQhsSQdyog/giphy.gif">
-- 🎓 I’m currently studying Mechatronics engineering at Technological University of Pereira
+<img align="right" alt="Coding" width="400"  Style="border-radius: 15px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGMzajl3ZTg4NDF1dHltcGI1MnNyanRoc3lubzQ5ZThjNWY3enJheiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7bdpLxQhsSQdyog/giphy.gif">            
 
-- 🌱 I’m currently learning React and Next.js
+- 🎨 I'm passionate about web design and crafting engaging user experiences. 
+     
+- 🚀 I'm deepening my expertise in React and Next.js while constantly exploring new ways to build efficient and scalable applications.
 
 - 💡 I like to explore new technologies and develop software solutions and quick hacks
 
