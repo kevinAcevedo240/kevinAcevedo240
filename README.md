@@ -42,15 +42,7 @@
 
 <hr>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
- <!-- <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kevinAcevedo240/kevinAcevedo240/output/github-contribution-grid-snake.svg" /> -->
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kevinAcevedo240/kevinAcevedo240/output/github-contribution-grid-snake.svg" />[](url)
- 
-  
-  <br/><br/>
-</div>
+
 
 <!-- Footer -->
 <img width=100% title="Kevin Acevedo" alt="Kevin Acevedo" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&fontAlignY=35&fontSize=50&section=footer"/>
