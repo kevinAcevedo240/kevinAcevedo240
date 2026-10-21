@@ -1,48 +1,35 @@
+<img width="100%" alt="Kevin Acevedo" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0f172a,100:334155&text=Kevin%20Acevedo&fontColor=ffffff&fontSize=44&fontAlignY=36&desc=Full-stack%20engineer%20%C2%B7%20Pereira,%20Colombia&descSize=16&descAlignY=58"/>
 
-<img width=100% title="Kevin Acevedo" alt="Kevin Acevedo" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Hi%20there%20👋,%20I'm%20Kevin%20Acevedo&fontAlignY=43&fontSize=50"/>
+I build products end to end, from the database to the last pixel, and I care about how they feel, not just whether they work. Lately that means SaaS for small businesses in Latin America, WhatsApp as the interface, and AI doing the boring parts.
 
-<h2 align="center">👨🏻‍💻A passionate FullStack Developer from Colombia</h2>
-<img align="right" alt="Coding" width="400"  Style="border-radius: 15px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGMzajl3ZTg4NDF1dHltcGI1MnNyanRoc3lubzQ5ZThjNWY3enJheiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7bdpLxQhsSQdyog/giphy.gif">            
+### Now
 
-- 🎨 I'm passionate about web design and crafting engaging user experiences. 
-     
-- 🚀 I'm deepening my expertise in React and Next.js while constantly exploring new ways to build efficient and scalable applications.
+- **[Verifika](https://verifika.tech)** · *Founder.* Tells a small business in seconds whether a payment is real by matching the WhatsApp receipt against the bank's own notification. API, web dashboard, iOS/Android app, WhatsApp bot and an MCP server.
+- **[Legal Aid](https://legalaidcol.com)** · *CTO.* A legal-membership platform in production: recurring billing and collections, remote e-signature, and an AI assistant that checks every law it cites against official sources.
+- **[Cliclab Studio](https://cliclab.studio)** · *Co-founder.* Websites and software for clients, with a soft spot for animation.
 
-- 💡 I like to explore new technologies and develop software solutions and quick hacks
+### How I build
 
-- 💬 Ask me about anything, I am happy to help, **only if the ball is in my court!**
+AI is part of every day: Claude Code and agents for the heavy lifting, MCP to plug products into assistants, and my own eyes for reviewing, debugging and owning what ships. Most of my work lives in private repos, so the graph below is the honest picture.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kevinAcevedo240&color=green" alt="Profile views" /> </p>
-
-</br>
-
-<h2 align="center">🌟 My GitHub Stats 🌟</h2>
-<div>
-<img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kevinAcevedo240&theme=highcontrast" alt="kevinAcevedo240" />
-<img align="center" width="49%"  src="https://github-readme-stats.vercel.app/api?username=kevinAcevedo240&show_icons=true&locale=en&theme=highcontrast" alt="kevinAcevedo240" />
-</div>
-<br/>
-
-<h2 align="center">Connect with me</h2>
-<p align="center">
-<a href="https://www.linkedin.com/in/kevin-julian-acevedo-salazar-8b03051a4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" style="max-width: 100%;"></a>
-  <a href="https://www.instagram.com/soy.acevedo_/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="https://www.instagram.com/soy.acevedo_/" height="40" width="40" /></a>
-<a href="mailto:keju.acevedosa24@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg" alt="mailto:keju.acevedosa24@gmail.com" height="55" width="100" /></a>
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,express,prisma,postgres,supabase,tailwind,aws,vercel,figma&perline=12" />
 </p>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<sub>Also: React Native + Expo · Claude Code · MCP · Gemini · WhatsApp (Kapso + n8n) · Better Auth · Wompi</sub>
 
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=azure,bootstrap,visualstudio,vscode,net,cs,git,angular" />
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,postman,photoshop,figma,typescript,react,nextjs,github" /><br>
-</div>
-  
+<br/><br/>
 
-  <br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=kevinAcevedo240&theme=dark&hide_border=true" />
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=kevinAcevedo240&hide_border=true" />
+</picture>
 
-<hr>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kevinAcevedo240/kevinAcevedo240/output/snake-dark.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/kevinAcevedo240/kevinAcevedo240/output/snake.svg" />
+</picture>
 
+### Say hi
 
-
-<!-- Footer -->
-<img width=100% title="Kevin Acevedo" alt="Kevin Acevedo" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&fontAlignY=35&fontSize=50&section=footer"/>
+[LinkedIn](https://www.linkedin.com/in/kevin-julian-acevedo-salazar/) · [Portfolio](https://cliclab.studio) · [keju.acevedosa24@gmail.com](mailto:keju.acevedosa24@gmail.com)
