@@ -8,7 +8,7 @@
 </h1>
 
 <p align="center">
-  <img alt="Full-Stack Engineer · Founder @ Verifika · CTO @ Legal Aid" src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=680&lines=Full-Stack+Engineer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Founder+%40+Verifika+%F0%9F%A7%BE;CTO+%40+Legal+Aid+%E2%9A%96%EF%B8%8F;Building+on+WhatsApp+%2B+AI+from+Colombia+%F0%9F%87%A8%F0%9F%87%B4" />
+  <img alt="Full-Stack Engineer · Founder @ Verifika · CTO @ Legal Clad" src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=680&lines=Full-Stack+Engineer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Founder+%40+Verifika+%F0%9F%A7%BE;CTO+%40+Legal+Clad+%E2%9A%96%EF%B8%8F;Building+on+WhatsApp+%2B+AI+from+Colombia+%F0%9F%87%A8%F0%9F%87%B4" />
 </p>
 
 ---
@@ -28,7 +28,7 @@
 | Project | Role | What it does |
 |---|---|---|
 | 🧾 **[Verifika](https://verifika.tech)** | Founder | Tells a small business in seconds whether a payment is real, by matching the WhatsApp receipt against the bank's own notification. |
-| ⚖️ **[Legal Aid](https://legalaidcol.com)** | CTO | A legal-membership platform in production: billing, e-signature, and an AI assistant that checks every law it cites. |
+| ⚖️ **[Legal Clad](https://legalclad.com)** | CTO | A legal-membership platform in production: billing, e-signature, and an AI assistant that checks every law it cites. |
 | 🎨 **[Cliclab Studio](https://cliclab.studio)** | Co-founder | Websites and software for clients, with a soft spot for animation. |
 
 ---
@@ -39,7 +39,7 @@
   <a href="mailto:keju.acevedosa24@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/kevin-julian-acevedo-salazar/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2" /></a>
   <a href="https://www.instagram.com/kevinacevedo.dev"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" /></a>
-  <a href="https://www.tiktok.com/@TU_USUARIO"><img alt="TikTok" src="https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white" /></a>
+  <a href="https://www.tiktok.com/@kevinacevedo.dev"><img alt="TikTok" src="https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white" /></a>
   <a href="https://cliclab.studio"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-111111" /></a>
 </p>
 
